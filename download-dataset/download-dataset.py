@@ -1,8 +1,8 @@
 # Download dataset using wget
 
 # Parameters to be used with wget
-username='nedc_tuh_eeg'
-password='nedc_tuh_eeg'
+username=''
+password=''
 webpage='https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_seizure/v1.5.0/'
 
 # Import libraries
